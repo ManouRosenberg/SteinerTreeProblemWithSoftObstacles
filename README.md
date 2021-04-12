@@ -36,7 +36,7 @@ The files are organised as follows:
 - and for two soft obstacles:
 
 
-1.1\
+1.1
 
 0.098,	0.9\
 0.21,	0.902\
