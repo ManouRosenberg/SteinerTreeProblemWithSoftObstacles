@@ -14,8 +14,7 @@ The files are organised as follows:
   Examples are:
   
  - for two solid obstacles:
-
-  max														
+  max
   3.4225,	3.76125
   5.5625,	4.40125
   6.2825,	6.16125
