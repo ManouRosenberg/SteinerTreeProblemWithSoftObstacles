@@ -2,7 +2,7 @@
 These files contain problem instances for the Euclidean Steiner tree problem with polygonal soft and solid obstacles and results achieved by a genetic algorithm approach.
 The problem instances were submitted to GECCO '21 as supplementary material. A description and analysis of the algorithm can be found in the work accepted for GECCO '21:   
 
-Rosenberg et al. (2021) "A Genetic Algorithm Approach for the Euclidean Steiner TreeProblem with Soft Obstacles", ACM,*Genetic and Evolutionary Computation Conference,  2021*
+Rosenberg et al. (2021) "A Genetic Algorithm Approach for the Euclidean Steiner TreeProblem with Soft Obstacles", ACM,*Genetic and Evolutionary Computation Conference,  2021*, 
 https://doi.org/10.1145/3449639.3459397  
 Please use the link above for citation when using the problem instances.
 
@@ -23,12 +23,12 @@ The files are organised as follows:
   6.2825,	6.16125\
   7.4225,	4.82125\
   7.7225,	3.02125\
-  5.5,	2.8\
+  5.5,	2.8
   	
   max	\
   1.25,	6.2\
   2.2,	4.8\
-  0.5,	5\
+  0.5,	5
 
 
 - and for two soft obstacles:
@@ -37,7 +37,7 @@ The files are organised as follows:
 0.098,	0.9\
 0.21,	0.902\
 0.204,	0.488\
-0.094,	0.488\
+0.094,	0.488
 
 1.1	\
 0.602,	0.81\
@@ -45,7 +45,7 @@ The files are organised as follows:
 0.766,	0.466\
 0.912,	0.704\
 0.72,	0.622\
-0.718,	0.834\
+0.718,	0.834
 
 
 
