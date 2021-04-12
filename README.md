@@ -74,8 +74,10 @@ Some of the problem instances in the "Soft" folder contain the points for the Si
 Garrote et al. (2019) "Weighted Euclidean Steiner Trees for Disaster-Aware Network Design", IEEE,*15th International Conference on the Design of Reliable Communication Networks, DRCN 2019* 
 
 
-
+--------------------
+Rosenberg et al. (2021) "A Genetic Algorithm Approach for the Euclidean Steiner TreeProblem with Soft Obstacles", ACM,*Genetic and Evolutionary Computation Conference,  2021*
 Paper License:
+
 Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for components of this work owned by others than the author(s) must be honored. Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee. Request permissions from Permissions@acm.org.
 
 GECCO '21, July 10–14, 2021, Lille, France 
