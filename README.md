@@ -17,6 +17,7 @@ The files are organised as follows:
   Examples are:
   
  - for two solid obstacles:
+ 
   max\
   3.4225,	3.76125\
   5.5625,	4.40125\
@@ -25,6 +26,7 @@ The files are organised as follows:
   7.7225,	3.02125\
   5.5,	2.8
   	
+    
   max	\
   1.25,	6.2\
   2.2,	4.8\
@@ -33,7 +35,7 @@ The files are organised as follows:
 
 - and for two soft obstacles:
 
-1.1\	
+1.1  \	
 0.098,	0.9\
 0.21,	0.902\
 0.204,	0.488\
